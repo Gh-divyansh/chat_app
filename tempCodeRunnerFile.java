@@ -1,0 +1,1 @@
+static JFrame j = new JFrame();
